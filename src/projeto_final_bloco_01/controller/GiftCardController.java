@@ -13,7 +13,7 @@ public class GiftCardController implements GiftCardRepository {
     public void cadastrar(Scanner sc) {
         System.out.println("Escolha o tipo de Gift Card:");
         System.out.println("1 - Gift Card Físico");
-        System.out.println("2 - Gift Card Virtual");
+        System.out.println("2 - Gift Card Virtual ");
         int tipo = sc.nextInt();
         sc.nextLine();
 

@@ -58,7 +58,7 @@ public class Menu {
         System.out.println("            3 - Buscar Gift Card por Código          ");
         System.out.println("            4 - Atualizar Gift Card                  ");
         System.out.println("            5 - Excluir Gift Card                    ");
-        System.out.println("            6 - Sairr                                 ");
+        System.out.println("            6 - Sair                                 ");
         System.out.println("                                                     ");
         System.out.println("*****************************************************");
         System.out.println("Entre com a opção desejada:                          ");

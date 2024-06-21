@@ -7,3 +7,4 @@ public interface GiftCardRepository {
 
 
 }
+//fim

@@ -36,3 +36,4 @@ public class GiftCardVirtual extends GiftCard {
         this.emailDestinatario = emailDestinatario;
     }
 }
+//fim

@@ -31,3 +31,4 @@ public abstract class GiftCard implements GiftCardRepository {
         this.saldo = saldo;
     }
 }
+//fim

@@ -36,3 +36,4 @@ public class GiftCardFisico extends GiftCard {
         this.enderecoEntrega = enderecoEntrega;
     }
 }
+//fim
